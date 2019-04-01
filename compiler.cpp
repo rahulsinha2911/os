@@ -5,9 +5,10 @@ int main()
 /*
     opp.cpp
     slr.cpp
-    firstfollow.cpp
+    firstfollowp.cpp
     srp.cpp
     ll.cpp
     clr.cpp
     srp.cpp
+    */
 }
